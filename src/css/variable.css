@@ -1,0 +1,6 @@
+:root {
+    --cor-do-texto: hsl(193, 38%, 86%);
+    --cor-de-fundo-padrao: hsl(218, 23%, 16%);
+    --cor-padrao-do-titulo-e-btn: hsl(150, 100%, 66%);
+    --cor-de-fundo-do-gerador: hsl(218, 20%, 24%);
+}
